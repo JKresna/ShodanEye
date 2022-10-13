@@ -7,7 +7,7 @@ Shodan Tool using shodan API
 - Banner Count (Menghitung Jumlah Banner)
 - Scan Host 
 
-### Installasi (Installation)
+## Installasi (Installation)
 1. Install Python3 & PIP : <br>
 `$ apt install python3 && apt install python3-pip`
 2. Install Shodan API : <br>
