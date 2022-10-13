@@ -13,7 +13,6 @@ Shodan Tool using shodan API
 2. Install Shodan API : <br>
 `$ pip install shodan`
 
-<br><br>
 ## Penggunaan (Usage)
 **Buat API KEY di akun shodan anda kemudian copy
 dan pastekan kode API anda ke file api_key.txt di folder ini**
@@ -27,7 +26,7 @@ folder** then run this tool :
 
 `$ python3 main.py`
 
-
-### Link untuk membuat akun shodan 
-### Link to Create Shodan Account
+<br><br>
+**Link untuk membuat akun shodan**
+**Link to Create Shodan Account**
 - https://account.shodan.io/register
