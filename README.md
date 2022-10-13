@@ -27,6 +27,6 @@ folder** then run this tool :
 `$ python3 main.py`
 
 <br><br>
-**Link untuk membuat akun shodan**
-**Link to Create Shodan Account**
+### Link untuk membuat akun shodan
+### Link to Create Shodan Account
 - https://account.shodan.io/register
